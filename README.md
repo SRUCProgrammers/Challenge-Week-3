@@ -1,7 +1,7 @@
 SRUC programmers challenge 3
 
 
-	One of the main challenges of using genotypes for genomic evaluations is to ensure data quality and validating that genotypes belong to the right animals. When an animal and its offspring are genotyped we can do parentage verification. When we get negative result we need to run parentage discovery.  This is very computationally demanding for large datasets. There are 108 Single Nucleotide Polymorphisms (SNPs) identified for cattle which give high accuracy for checking parent-offspring relationship. Use the list of SNPs (file: parentageSNPs.txt) and find possible sires for all animals. Simulated data can be found in file mMatrixFileSimulated_54609_1000_1.dat. All animals have been genotyped using Illumina 50k V2 chip (file: Illumina50kV2map.txt).  
+One of the main challenges of using genotypes for genomic evaluations is to ensure data quality and validating that genotypes belong to the right animals. When an animal and its offspring are genotyped we can do parentage verification. When we get negative result we need to run parentage discovery.  This is very computationally demanding for large datasets. There are 108 Single Nucleotide Polymorphisms (SNPs) identified for cattle which give high accuracy for checking parent-offspring relationship. Use the list of SNPs (file: parentageSNPs.txt) and find possible sires for all animals. Simulated data can be found in file mMatrixFileSimulated_54609_1000_1.dat. All animals have been genotyped using Illumina 50k V2 chip (file: Illumina50kV2map.txt).  
 	
 	
 Requirements:
