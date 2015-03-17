@@ -17,3 +17,6 @@ Requirements:
 2.	Use functions and/or procedures.
 3.	Use UML naming convention.
 
+
+
+To download all files for week 3 please hit the "download as zip" button to the right¬!! -->>
