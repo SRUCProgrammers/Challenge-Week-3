@@ -10,6 +10,7 @@ Use the list of SNPs (file: parentageSNPs.txt) and find possible sires for all a
 	
 Deliverables:
 1.	Week 1 - Provide a flowchart of your solution. Please do not start coding until we finalise it during our next meeting. You can use http://www.gliffy.com/ 
+
 2.	Week 2 (this week) - Write a sub function to read in and parse the original, large files into a useable format. Bonus challenge! Can you extract the 108 sites of interest? 
 	
 
