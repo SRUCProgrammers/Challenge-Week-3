@@ -134,6 +134,6 @@ print('PARSING PROCESS COMPLETE')
 ######################################
 
 print('EXPORTING FILTERED GENOTYPES TO *.txt file')
-genotypes.to_csv('InformativeSNPsOnly.txt',index=False,header=True)
+genotypes.to_csv('InformativeSNPsOnly.txt',index=False,header=False)
 print(' ')
 print('COMPLETE . . . data exported to InformativeSNPsOnly.txt')
